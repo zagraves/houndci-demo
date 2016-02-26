@@ -16,19 +16,18 @@
   "predef": [
     "$",
     "jQuery",
-
     "jasmine",
     "beforeEach",
     "describe",
     "expect",
     "it",
-
     "require",
     "next",
     "module",
     "__dirname"
   ],
   "quotmark": true,
+  "smarttabs": true,
   "trailing": true,
   "undef": true,
   "unused": true
